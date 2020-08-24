@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CAA2-2845
+
+ Directory of C:\Users\Hanshita\Desktop\New folder
+
+24-08-2020  05:27 PM    <DIR>          .
+24-08-2020  05:27 PM    <DIR>          ..
+24-08-2020  05:27 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  35,552,735,232 bytes free
